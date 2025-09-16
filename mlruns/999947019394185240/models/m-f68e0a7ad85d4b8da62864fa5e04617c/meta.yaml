@@ -1,0 +1,10 @@
+artifact_location: file:///D:/AIWORKFORCE/PROJECT%2015%28WINE%20CLUSTERING%29/mlruns/999947019394185240/models/m-f68e0a7ad85d4b8da62864fa5e04617c/artifacts
+creation_timestamp: 1758033499467
+experiment_id: '999947019394185240'
+last_updated_timestamp: 1758033502167
+model_id: m-f68e0a7ad85d4b8da62864fa5e04617c
+model_type: null
+name: dbscan_model
+source_run_id: 17e307475040455f86f6d09d1288afe5
+status: 2
+status_message: null

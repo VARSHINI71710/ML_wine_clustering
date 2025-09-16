@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AIWORKFORCE/PROJECT%2015%28WINE%20CLUSTERING%29/mlruns/999947019394185240/f3a0bb5feaca42419132f2257c476644/artifacts
+end_time: 1758034084596
+entry_point_name: ''
+experiment_id: '999947019394185240'
+lifecycle_stage: active
+run_id: f3a0bb5feaca42419132f2257c476644
+run_name: Final_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758034078073
+status: 3
+tags: []
+user_id: varsh

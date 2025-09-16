@@ -1,0 +1,18 @@
+artifact_path: file:///D:/AIWORKFORCE/PROJECT%2015%28WINE%20CLUSTERING%29/mlruns/999947019394185240/models/m-7839e1cb905b486a84842589ea469396/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.3.2
+model_id: m-7839e1cb905b486a84842589ea469396
+model_size_bytes: 25431
+model_uuid: m-7839e1cb905b486a84842589ea469396
+prompts: null
+run_id: a55db81f52a94cb1991663ef2b151252
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+utc_time_created: '2025-09-16 15:05:43.148748'

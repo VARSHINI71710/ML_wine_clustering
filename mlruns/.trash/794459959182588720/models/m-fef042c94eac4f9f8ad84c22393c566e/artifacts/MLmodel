@@ -1,0 +1,22 @@
+artifact_path: file:///D:/AIWORKFORCE/PROJECT%2015%28WINE%20CLUSTERING%29/mlruns/794459959182588720/models/m-fef042c94eac4f9f8ad84c22393c566e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.3.2
+model_id: m-fef042c94eac4f9f8ad84c22393c566e
+model_size_bytes: 4654
+model_uuid: m-fef042c94eac4f9f8ad84c22393c566e
+prompts: null
+run_id: 03c70eb13e2143d997e44a19d192f6c5
+utc_time_created: '2025-09-16 14:05:59.846851'

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/AIWORKFORCE/PROJECT%2015%28WINE%20CLUSTERING%29/mlruns/999947019394185240/models/m-192720695cfc4aad8ec9a70cc7322d09/artifacts
+creation_timestamp: 1758033496279
+experiment_id: '999947019394185240'
+last_updated_timestamp: 1758033499288
+model_id: m-192720695cfc4aad8ec9a70cc7322d09
+model_type: null
+name: agglo_model
+source_run_id: 17e307475040455f86f6d09d1288afe5
+status: 2
+status_message: null

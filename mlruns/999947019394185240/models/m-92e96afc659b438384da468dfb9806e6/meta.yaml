@@ -1,0 +1,10 @@
+artifact_location: file:///D:/AIWORKFORCE/PROJECT%2015%28WINE%20CLUSTERING%29/mlruns/999947019394185240/models/m-92e96afc659b438384da468dfb9806e6/artifacts
+creation_timestamp: 1758034374451
+experiment_id: '999947019394185240'
+last_updated_timestamp: 1758034378103
+model_id: m-92e96afc659b438384da468dfb9806e6
+model_type: null
+name: kmeans_model
+source_run_id: 66cc705287ba44da84d50e486ba30c05
+status: 2
+status_message: null
