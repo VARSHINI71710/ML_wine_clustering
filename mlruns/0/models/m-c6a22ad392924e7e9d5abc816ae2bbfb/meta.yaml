@@ -1,0 +1,10 @@
+artifact_location: file:///D:/AIWORKFORCE/PROJECT%2015%28WINE%20CLUSTERING%29/mlruns/0/models/m-c6a22ad392924e7e9d5abc816ae2bbfb/artifacts
+creation_timestamp: 1757989771178
+experiment_id: '0'
+last_updated_timestamp: 1757989776234
+model_id: m-c6a22ad392924e7e9d5abc816ae2bbfb
+model_type: null
+name: wine_clustering_model
+source_run_id: 695a527680d24f8e9cab8b1231d76521
+status: 2
+status_message: null

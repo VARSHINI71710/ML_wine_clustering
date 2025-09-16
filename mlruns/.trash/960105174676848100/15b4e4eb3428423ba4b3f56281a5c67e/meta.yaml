@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AIWORKFORCE/PROJECT%2015%28WINE%20CLUSTERING%29/mlruns/960105174676848100/15b4e4eb3428423ba4b3f56281a5c67e/artifacts
+deleted_time: 1757987567569
+end_time: 1757986957104
+entry_point_name: ''
+experiment_id: '960105174676848100'
+lifecycle_stage: deleted
+run_id: 15b4e4eb3428423ba4b3f56281a5c67e
+run_name: dapper-rat-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757986957098
+status: 4
+tags: []
+user_id: varsh
