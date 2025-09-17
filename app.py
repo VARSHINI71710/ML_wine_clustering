@@ -86,5 +86,4 @@ with gr.Blocks(theme="soft") as app:
     )
 
 if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run("app1:app", host="127.0.0.1", port=7860, reload=True)
+    app.launch()
