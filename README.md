@@ -3,6 +3,10 @@
 An interactive Machine Learning app that clusters wine data into different groups using KMeans, PCA, and StandardScaler.
 Built with Python, Scikit-learn, Joblib, and Streamlit/Gradio, and deployed on Hugging Face Spaces.
 
+Hugging face app link -https://huggingface.co/spaces/Varshini-07/mlflow_wine_clustering
+
+wine clustering in gradio-http://127.0.0.1:7860/
+
 🚀 Features
 
 Upload wine dataset or use the preloaded one.
@@ -26,19 +30,6 @@ Fully deployed on Hugging Face.
  ┣ 📜 pca.joblib             # Saved PCA model
  ┣ 📜 kmeans.joblib          # Saved KMeans model
  ┗ 📜 wine-clustering-extended.csv  # Dataset (optional)
-
-⚙️ Installation (Run Locally)
-
-Clone the repo and install dependencies:
-
-git clone https://huggingface.co/spaces/<your-username>/wine-clustering-app
-cd wine-clustering-app
-pip install -r requirements.txt
-
-
-Run the app:
-
-streamlit run app.py
 
 📦 Requirements
 
