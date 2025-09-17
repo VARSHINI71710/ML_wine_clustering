@@ -5,7 +5,7 @@ Built with Python, Scikit-learn, Joblib, and Streamlit/Gradio, and deployed on H
 
 Hugging face app link -https://huggingface.co/spaces/Varshini-07/mlflow_wine_clustering
 
-wine clustering in gradio-http://127.0.0.1:7860/
+MLflow-http://127.0.0.1:5000/#/experiments
 
 🚀 Features
 
@@ -24,11 +24,17 @@ Fully deployed on Hugging Face.
 📂 Project Structure
 📦 wine-clustering-app
  ┣ 📜 app.py                 # Main application file
+ 
  ┣ 📜 requirements.txt       # Python dependencies
+ 
  ┣ 📜 README.md              # Project documentation
+ 
  ┣ 📜 scaler.joblib          # Saved StandardScaler
+ 
  ┣ 📜 pca.joblib             # Saved PCA model
+ 
  ┣ 📜 kmeans.joblib          # Saved KMeans model
+ 
  ┗ 📜 wine-clustering-extended.csv  # Dataset (optional)
 
 📦 Requirements
